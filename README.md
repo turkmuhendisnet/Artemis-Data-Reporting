@@ -19,7 +19,7 @@
   
 ## Kullanılan Teklonojiler
 * N-tier architecture
-* -.NETcore6 Rest API
+* .NETcore6 Rest API
 * Dapper 
 * React.js 
 * Redux
