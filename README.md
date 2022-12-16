@@ -14,5 +14,5 @@ It is a reporting project that shows the procedure processes of the call center 
 ![Login Page](https://github.com/turkmuhendisnet/Artemis-Data-Reporting/blob/main/LoginPage.png)
 
 #### Choose Role
-![ChooseRolePage]([https://github.com/turkmuhendisnet/Artemis-Data-Reporting/blob/main/LoginPage.png](https://github.com/turkmuhendisnet/Artemis-Data-Reporting/blob/main/ChooseRolePage.PNG))
+![ChooseRolePage](https://github.com/turkmuhendisnet/Artemis-Data-Reporting/blob/main/ChooseRolePage.PNG)
 
