@@ -1,14 +1,35 @@
-# Artemis-Data-Reporting
-It is a reporting project that shows the procedure processes of the call center data transferred to the Webhelp system on the webhelp side.  Used technologies and software language  
--.NETcore6 
--C# 
--Rest API  
--Dapper  
--React.js 
--Javascript 
--User Authentication  
--Role Management  
--Session Management
+# Artemis Data Reporting
+ Kullanıcıların rol bazlı girişi yaparak, dahil oldukları roldeki şirket içi dataların aşamalarını istatistiksel olarak görmeleri sağlayan uygulama.
+ 
+ ## Amaç 
+Şirket bünyesinde bulunan kullanıcıların tanımlık oldukları rollerdeki dataların işleyişini görüntüleme.
+ 
+ ## Aşamalar
+* Veri tabanı işlmeleri
+  * Kullanıcı tablosu
+  * Rol tablosu
+  * Kullanıcı rol ilişki tablosu
+  * Komponet tablosu
+  * Rol komponet ilişki tablosu
+  * Aktivite tablosu
+  * Rol aktivite ilişki tablosu
+  * Üye işlmeleri
+  * LDAP ile Active Directory girişi
+  
+  
+  ## Kullanılan Teklonojiler
+* N-tier architecture
+* -.NETcore6 Rest API
+* Dapper 
+* React.js 
+* Redux
+* Javascript
+* Microsoft Sql Server 
+* ADO.NET 
+* User Authentication 
+* Role Management
+* Session Management
+ 
 
 #### Login Page
 ![Login Page](https://github.com/turkmuhendisnet/Artemis-Data-Reporting/blob/main/LoginPage.png)
