@@ -10,4 +10,4 @@ It is a reporting project that shows the procedure processes of the call center 
 -Role Management  
 -Session Management
 
-![Anasayfa Resmi](https://github.com/turkmuhendisnet/Artemis-Data-Reporting/blob/main/LoginPage.png)
+![Login Page](https://github.com/turkmuhendisnet/Artemis-Data-Reporting/blob/main/LoginPage.png)
